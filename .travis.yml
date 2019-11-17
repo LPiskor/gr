@@ -4,7 +4,7 @@ addons:
   sonarcloud:
     organization: "lpiskor"
     token:
-      secure: ZNRkSRARf0KHL98jE0Nn-w  # encrypted value of your token
+      secure: 1201fc9673ec14544bca237735e710dc18b87f30  # encrypted value of your token
 
 script:
   # the following command line builds the project, runs the tests with coverage and then execute the SonarCloud analysis
